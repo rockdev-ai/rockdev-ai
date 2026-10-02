@@ -8,7 +8,7 @@
 
 ---
 
-🚀 **Senior Full-Stack & AI/Agent Engineer** with **8+ years of experience** designing, building, and scaling high-performance web platforms and AI-powered applications.
+🚀 **Senior Full-Stack & AI/Agent Engineer** with **10+ years of experience** designing, building, and scaling high-performance web platforms and AI-powered applications.
 
 I focus on **modern web architectures**, **AI-driven systems**, and **agent-based workflows** that deliver real-world impact — from enterprise products to startup MVPs.
 
